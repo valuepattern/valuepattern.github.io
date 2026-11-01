@@ -66,6 +66,8 @@ Analytics records:
 
 Analytics and crash reports **never** include network names (SSIDs), access point or device hardware addresses, IP addresses of your devices, device names or host names, or passwords. The App turns off Firebase Analytics’ collection of the Android Advertising ID.
 
+**Your choice in the EEA, the UK and Switzerland.** Where Google's consent form applies to you, the App doesn't let Analytics store or use an identifier on your device until you have answered, and then only if you consent to storing information on your device and to measuring content performance. If you don't consent, Google may still receive limited usage signals that aren't tied to an identifier. You can change your choice at any time under Settings › Privacy options. Crash reports are not affected by this choice.
+
 When the App crashes, Crashlytics sends a crash report containing the technical details of the error, the app version, the device model, the operating system version, and a random installation identifier.
 
 Google processes this data under its own terms and policies, including the [Google Privacy Policy](https://policies.google.com/privacy) and Firebase’s [privacy information](https://firebase.google.com/support/privacy), and decides how long it keeps it within the retention settings Firebase offers.
@@ -91,7 +93,7 @@ The App also uses Google UMP. On launch, UMP contacts Google to determine whethe
 
 ## Privacy choices
 
-Where required, Google UMP asks for your advertising privacy choices before the App requests ads. Where the consent form applies to you, you can change your choices later in the App under Settings › Privacy options.
+Where required, Google UMP asks for your advertising privacy choices before the App requests ads. Where the consent form applies to you, you can change your choices later in the App under Settings › Privacy options. The same choice controls whether Analytics may use an identifier on your device.
 
 You can also:
 
