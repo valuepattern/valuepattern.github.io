@@ -7,7 +7,7 @@ permalink: /apps/android-app-speakpro/privacy-policy/
 
 # Privacy Policy for SpeakPro
 
-**Effective date:** November 25, 2026  
+**Effective date:** November 26, 2026  
 **Publisher:** Value Pattern Labs  
 **App package:** `com.valuepattern.speakpro`  
 **Contact:** [support@valuepattern.com](mailto:support@valuepattern.com)
@@ -50,10 +50,14 @@ For our costs and spending limits, we keep a daily usage total for each account:
 were made, how many seconds of audio and how many tokens they used, and what they cost us. It holds no words from
 your speeches. It stays when you delete your data; when you delete your account, it is no longer linked to you.
 
-So that deleting an account and signing up again doesn't reset the free minutes or the daily limits, we keep a code
-computed from your Google account ID or username with a secret key. It can't be turned back into either. When you
-delete your account, we keep that code with how many free seconds you had used, for one year, and on the deleted
-account's daily usage totals for two days.
+**Prevention of abuse.** To enforce the limits of the free tier and the daily usage limits, and to prevent misuse
+of the service, we maintain a pseudonymous identifier derived from your Google account identifier or username, which
+cannot be used to recover either. We may suspend any account that we reasonably believe has been used in breach of our
+[Terms of Use](/apps/android-app-speakpro/terms/), and we record the fact of the suspension, its date and the reason
+for it. Upon deletion of your account, we retain the identifier, together with the amount of free analysis time
+used and the suspension status of the account, if any, for a period of one year, and we retain its association with
+the deleted account's daily usage totals for a period of two days. This information is used solely for the purposes
+described in this paragraph.
 
 ## What happens when you practice
 
@@ -164,8 +168,8 @@ our server counts requests by IP address and username, and deletes those counts 
 - **Daily usage totals:** linked to your account until you delete it, then kept without it.
 - **Pro subscription records:** while you have your account; deleted with it. Google Play keeps its own records of
   your purchases under Google's policies.
-- **After deleting your account:** the code from your Google account ID or username, with your used free seconds,
-  for one year.
+- **After deleting your account:** the pseudonymous identifier, with the free analysis time used and any
+  suspension status, for one year.
 - **Firebase usage statistics:** 2 months at Google. **Crash reports:** 90 days at Google.
 
 ## Your choices and rights
