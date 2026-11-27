@@ -7,7 +7,7 @@ permalink: /apps/android-app-speakpro/privacy-policy/
 
 # Privacy Policy for SpeakPro
 
-**Effective date:** November 26, 2026  
+**Effective date:** November 27, 2026  
 **Publisher:** Value Pattern Labs  
 **App package:** `com.valuepattern.speakpro`  
 **Contact:** [support@valuepattern.com](mailto:support@valuepattern.com)
