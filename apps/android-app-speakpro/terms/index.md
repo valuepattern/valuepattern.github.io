@@ -1,30 +1,30 @@
 ---
 layout: default
-title: SpeakPro Terms of Use
-description: Terms of Use for the SpeakPro Android app published by Value Pattern Labs.
+title: Stage Sensei Terms of Use
+description: Terms of Use for the Stage Sensei Android app published by Value Pattern Labs.
 permalink: /apps/android-app-speakpro/terms/
 ---
 
-# Terms of Use for SpeakPro
+# Terms of Use for Stage Sensei
 
-**Effective date:** November 25, 2026  
+**Effective date:** November 27, 2026  
 **Publisher:** Value Pattern Labs  
 **App package:** `com.valuepattern.speakpro`  
 **Contact:** [support@valuepattern.com](mailto:support@valuepattern.com)
 
-These terms apply when you use the SpeakPro app and the service behind it. By creating an account or using the app,
+These terms apply when you use the Stage Sensei app and the service behind it. By creating an account or using the app,
 you agree to them. How we handle your data is described in the
 [Privacy Policy](/apps/android-app-speakpro/privacy-policy/).
 
-## Who can use SpeakPro
+## Who can use Stage Sensei
 
 You must be at least 13 years old, and old enough in your country to agree to these terms yourself or with a parent
 or guardian's permission. You need an account, and you are responsible for what happens under it. Keep your
 password to yourself, and tell us if you think someone else is using your account.
 
-## What SpeakPro does
+## What Stage Sensei does
 
-SpeakPro records your speeches and negotiation practice and gives you feedback. Timing and some measurements are done
+Stage Sensei records your speeches and negotiation practice and gives you feedback. Timing and some measurements are done
 on your phone. Transcripts, scores, critiques, suggested rewrites and the other side in a negotiation come from AI.
 
 AI feedback can be wrong, incomplete or a poor fit for your situation. It is practice feedback, not professional,
@@ -51,7 +51,7 @@ shown in the app and on Google Play's purchase screen before you pay.
 - **Renewal:** the subscription renews automatically at the end of each period, and Google Play charges you, until
   you cancel.
 - **Cancel:** at any time in Google Play under **Payments & subscriptions › Subscriptions**, or with **Manage
-  subscription** in SpeakPro's Settings. You keep Pro until the end of the period you paid for.
+  subscription** in Stage Sensei's Settings. You keep Pro until the end of the period you paid for.
 - **Refunds:** Google Play handles payments and refunds under its own
   [refund policies](https://support.google.com/googleplay/answer/2479637). We can't issue refunds ourselves.
 - **Price changes:** if the price changes, Google Play tells you before it applies, as its rules require.
@@ -59,14 +59,14 @@ shown in the app and on Google Play's purchase screen before you pay.
 
 ## Your content
 
-Your recordings, transcripts and what you say in them stay yours. You let us process them only to run SpeakPro for
+Your recordings, transcripts and what you say in them stay yours. You let us process them only to run Stage Sensei for
 you: to transcribe and assess your speeches, to show you the results, and to fix problems with the service, as
 described in the Privacy Policy. You are responsible for having the right to record what you upload, including other
 people's voices.
 
 ## Acceptable use
 
-Don't use SpeakPro to:
+Don't use Stage Sensei to:
 
 - break the law, or record or upload anything you don't have the right to;
 - harass, threaten or harm anyone, or produce content that does;
@@ -80,24 +80,24 @@ We may suspend or close an account that breaks these rules. Where we can, we tel
 
 ## Changes and availability
 
-We keep improving SpeakPro, so features, limits and the AI behind them may change. The service may sometimes be
-unavailable, for example during maintenance or an outage at one of our providers. We may stop offering SpeakPro; if
+We keep improving Stage Sensei, so features, limits and the AI behind them may change. The service may sometimes be
+unavailable, for example during maintenance or an outage at one of our providers. We may stop offering Stage Sensei; if
 we do, we will tell you in advance, and Google Play will stop charging for the subscription.
 
-You can stop using SpeakPro at any time and delete your account in the app or as described on
-[Delete your SpeakPro account](/apps/android-app-speakpro/delete-account/).
+You can stop using Stage Sensei at any time and delete your account in the app or as described on
+[Delete your Stage Sensei account](/apps/android-app-speakpro/delete-account/).
 
 ## Disclaimers and liability
 
-SpeakPro is provided "as is". To the extent the law allows, we don't promise that it will be uninterrupted,
+Stage Sensei is provided "as is". To the extent the law allows, we don't promise that it will be uninterrupted,
 error-free, or that its feedback will be accurate or will improve your results. To the extent the law allows, our
-total liability to you for anything related to SpeakPro is limited to what you paid for it in the 12 months before
+total liability to you for anything related to Stage Sensei is limited to what you paid for it in the 12 months before
 the claim. Nothing in these terms limits rights you have under consumer law that can't be waived.
 
 ## Changes to these terms
 
 If we change these terms, we will update this page and its effective date. For important changes, we will also tell
-you in the app before they take effect. If you keep using SpeakPro after that, the new terms apply.
+you in the app before they take effect. If you keep using Stage Sensei after that, the new terms apply.
 
 ## Contact
 

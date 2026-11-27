@@ -1,24 +1,24 @@
 ---
 layout: default
-title: SpeakPro Privacy Policy
-description: Privacy Policy for the SpeakPro Android app published by Value Pattern Labs.
+title: Stage Sensei Privacy Policy
+description: Privacy Policy for the Stage Sensei Android app published by Value Pattern Labs.
 permalink: /apps/android-app-speakpro/privacy-policy/
 ---
 
-# Privacy Policy for SpeakPro
+# Privacy Policy for Stage Sensei
 
 **Effective date:** November 27, 2026  
 **Publisher:** Value Pattern Labs  
 **App package:** `com.valuepattern.speakpro`  
 **Contact:** [support@valuepattern.com](mailto:support@valuepattern.com)
 
-SpeakPro helps you practice public speaking and negotiation. You record yourself, and the app gives you feedback
+Stage Sensei helps you practice public speaking and negotiation. You record yourself, and the app gives you feedback
 on how you spoke and what you said. Some of that feedback comes from AI, which means your speech leaves your phone.
 This policy explains exactly what is sent, who handles it, how long it is kept and how to delete it.
 
 ## The short version
 
-- To review a speech, SpeakPro sends its recording to our server, which has it transcribed and assessed by OpenAI.
+- To review a speech, Stage Sensei sends its recording to our server, which has it transcribed and assessed by OpenAI.
 - Our server never stores the recording. It keeps the transcript and the feedback for 90 days, then deletes them.
 - Your recordings and practice history stay on your phone, and are not included in Android backups.
 - Unless you turn it off in Settings, the app sends Google Firebase usage statistics and crash reports. They never
@@ -30,7 +30,7 @@ This policy explains exactly what is sent, who handles it, how long it is kept a
 
 ## Your account
 
-You need an account to use SpeakPro. You can create one in either of two ways:
+You need an account to use Stage Sensei. You can create one in either of two ways:
 
 - **With Google.** We receive your Google account's ID, email address, name, and whether Google has verified the
   email address. We never see your Google password.
@@ -62,14 +62,14 @@ described in this paragraph.
 
 **Device and app integrity.** When you create an account and each time a recording is submitted for analysis, the
 app requests an integrity verdict from Google Play, and our servers submit that verdict to Google for verification.
-The verdict indicates whether the request originates from an unmodified copy of SpeakPro installed through Google Play
+The verdict indicates whether the request originates from an unmodified copy of Stage Sensei installed through Google Play
 on a device that passes Android's integrity checks. We record only whether the verification succeeded and, if it did
 not, the category of the failure, in our service logs, which are retained for a few days. We may decline requests
 that fail verification.
 
 ## What happens when you practice
 
-**On your phone.** SpeakPro records your speech and measures your pace, pauses and timing on the phone itself. The
+**On your phone.** Stage Sensei records your speech and measures your pace, pauses and timing on the phone itself. The
 live word count during a speech uses Android's on-device speech recognition, so that audio is not sent anywhere.
 Recordings, transcripts, scores and history are stored in the app's private storage. They are excluded from Android
 cloud backup and from transfers to a new phone. You can have recordings deleted automatically after analysis in
@@ -108,7 +108,7 @@ and cancellation under the [Google Play terms](https://play.google.com/about/pla
 [Google's privacy policy](https://policies.google.com/privacy). We never receive your card number, billing address or
 other payment details.
 
-- **What the app sends Google Play:** when you buy, a random code that stands for your SpeakPro account (not your name
+- **What the app sends Google Play:** when you buy, a random code that stands for your Stage Sensei account (not your name
   or email), so the purchase can be matched to your account.
 - **What the app sends our server:** the purchase token Google Play gives the app, after you buy, each time the app
   starts, and when you tap Restore purchase.
@@ -119,12 +119,12 @@ other payment details.
 - **What we keep:** that information with your account, for as long as you have the account, so we know whether you
   have Pro. It is deleted with your account.
 
-Deleting your SpeakPro account doesn't cancel the subscription. Cancel it first in Google Play under **Payments &
-subscriptions › Subscriptions**, or with **Manage subscription** in SpeakPro's Settings.
+Deleting your Stage Sensei account doesn't cancel the subscription. Cancel it first in Google Play under **Payments &
+subscriptions › Subscriptions**, or with **Manage subscription** in Stage Sensei's Settings.
 
 ## Usage statistics and crash reports
 
-To see how SpeakPro is used and to fix crashes, the app uses Google Analytics for Firebase and Firebase
+To see how Stage Sensei is used and to fix crashes, the app uses Google Analytics for Firebase and Firebase
 Crashlytics. You can turn both off under **Settings › Privacy and analysis › Share usage statistics and crash reports**; turning
 it off also deletes crash reports not yet sent.
 
@@ -137,13 +137,13 @@ it off also deletes crash reports not yet sent.
 - **Crash reports:** what the app was doing when it crashed, the phone's model and state (such as free memory), and
   an identifier for this installation.
 
-They never include your speeches, transcripts, recordings, titles, topics, name or email. SpeakPro doesn't collect
+They never include your speeches, transcripts, recordings, titles, topics, name or email. Stage Sensei doesn't collect
 the advertising ID and sends no advertising signals. Google keeps usage statistics linked to the installation for
 2 months and crash reports for 90 days.
 
 ## Who else handles your data
 
-We use these service providers to run SpeakPro, and only for that purpose:
+We use these service providers to run Stage Sensei, and only for that purpose:
 
 - **OpenAI.** It transcribes speeches and writes the feedback. Under OpenAI's API terms, the data we send is not
   used to train OpenAI's models. OpenAI may keep it for up to 30 days to detect abuse, then deletes it. We ask
@@ -153,7 +153,7 @@ We use these service providers to run SpeakPro, and only for that purpose:
   to deliver requests and protect against attacks. Its request logs are kept for a few days.
 - **Render.** It hosts our database, which holds your account, transcripts and feedback, in Ohio, United States.
 - **Google.** It provides Sign in with Google, if you choose it; Google Play, which sells and bills the Pro
-  subscription and tells our server its status; Google Play Integrity, which verifies that requests come from SpeakPro
+  subscription and tells our server its status; Google Play Integrity, which verifies that requests come from Stage Sensei
   as installed through Google Play; and Firebase's usage statistics and crash reports, unless you turn
   them off.
 
@@ -192,7 +192,7 @@ In the app, under **Settings › Your data**:
 - **Delete everything on this phone** removes your sessions, recordings and settings from the phone.
 
 You can also delete your account without the app; see
-[Delete your SpeakPro account](/apps/android-app-speakpro/delete-account/).
+[Delete your Stage Sensei account](/apps/android-app-speakpro/delete-account/).
 
 Depending on where you live, you may have the right to access, correct, delete or export your data, or to object
 to how it is used. Email [support@valuepattern.com](mailto:support@valuepattern.com) and we will answer within 30
@@ -202,7 +202,7 @@ We process your data to provide the service you asked for: transcribing and asse
 providers may process it outside your country, including in the United States, under their standard data
 protection terms.
 
-## What SpeakPro doesn't do
+## What Stage Sensei doesn't do
 
 - No ads, and no advertising ID.
 - No tracking across other apps or websites.
@@ -217,17 +217,17 @@ protection terms.
   before the phone restarted, can still finish.
 - **Vibration:** for the timing cues during a speech.
 - **Install referrer:** added by Firebase, to tell which Google Play listing or campaign led to the install.
-- **Biometrics:** listed by Google's sign-in library, which Android uses for saved passwords and passkeys. SpeakPro
+- **Biometrics:** listed by Google's sign-in library, which Android uses for saved passwords and passkeys. Stage Sensei
   itself never reads fingerprint or face data.
 
 ## Children
 
-SpeakPro is not meant for children under 13, and we don't knowingly collect their data. If you believe a child has
+Stage Sensei is not meant for children under 13, and we don't knowingly collect their data. If you believe a child has
 created an account, email us and we will delete it.
 
 ## Changes
 
-If we change how SpeakPro handles your data, we will update this page and its effective date before the change
+If we change how Stage Sensei handles your data, we will update this page and its effective date before the change
 takes effect.
 
 ## Contact
