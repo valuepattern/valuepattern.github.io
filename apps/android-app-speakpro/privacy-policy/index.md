@@ -38,7 +38,8 @@ You need an account to use SpeakPro. You can create one in either of two ways:
   read your password.
 
 Each phone you sign in on gets its own sign-in session. We store a hash of the session token, the phone's model
-name (for example "Pixel 9") and when the session was last used. On your phone, the session token is encrypted with
+name (for example "Pixel 9"), whether the session was opened on a physical device, an emulator or one of Google's
+test devices, and when the session was last used. On your phone, the session token is encrypted with
 a key kept in Android's secure key store.
 
 We also keep how many seconds of your recordings have been analyzed, so we can apply the free limit. This count
@@ -58,6 +59,13 @@ for it. Upon deletion of your account, we retain the identifier, together with t
 used and the suspension status of the account, if any, for a period of one year, and we retain its association with
 the deleted account's daily usage totals for a period of two days. This information is used solely for the purposes
 described in this paragraph.
+
+**Device and app integrity.** When you create an account and each time a recording is submitted for analysis, the
+app requests an integrity verdict from Google Play, and our servers submit that verdict to Google for verification.
+The verdict indicates whether the request originates from an unmodified copy of SpeakPro installed through Google Play
+on a device that passes Android's integrity checks. We record only whether the verification succeeded and, if it did
+not, the category of the failure, in our service logs, which are retained for a few days. We may decline requests
+that fail verification.
 
 ## What happens when you practice
 
@@ -145,7 +153,8 @@ We use these service providers to run SpeakPro, and only for that purpose:
   to deliver requests and protect against attacks. Its request logs are kept for a few days.
 - **Render.** It hosts our database, which holds your account, transcripts and feedback, in Ohio, United States.
 - **Google.** It provides Sign in with Google, if you choose it; Google Play, which sells and bills the Pro
-  subscription and tells our server its status; and Firebase's usage statistics and crash reports, unless you turn
+  subscription and tells our server its status; Google Play Integrity, which verifies that requests come from SpeakPro
+  as installed through Google Play; and Firebase's usage statistics and crash reports, unless you turn
   them off.
 
 We don't sell your data, share it for advertising, or give it to anyone else, unless the law requires it.
